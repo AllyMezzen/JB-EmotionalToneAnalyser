@@ -1,0 +1,103 @@
+@media (max-width: 650px) {
+
+    .app__upperblock {
+        margin-bottom: 22px;
+    }
+
+    .app__button {
+        width: 100%;
+        max-width: none;
+    }
+
+    .app__heading {
+        font-size: 1.6em;
+    }
+
+    .app__description {
+        font-size: 1em;
+    }
+
+    #textarea {
+        font-size: 1rem;
+    }
+
+    #textarea::placeholder {
+        font-size: 1rem;
+    }
+
+    .error {
+        max-height: 75px;
+        padding: 15px 23px;
+    }
+
+    .info-container {
+        margin-top: 12px;
+    }
+
+    .result-text {
+        font-size: 1.2rem;
+    }
+
+}
+
+@media (max-width: 500px) {
+
+    .container {
+        padding: 0 6%;
+    }
+
+    .app {
+        padding: 50px 20px;
+    }
+
+    .app__upperblock {
+        margin-bottom: 22px;
+    }
+
+    .app__button {
+        width: 100%;
+        max-width: none;
+        font-size: 0.9rem;
+    }
+
+    .app__heading {
+        font-size: 1.3em;
+    }
+
+    .app__description {
+        font-size: 0.9em;
+    }
+
+    #textarea {
+        min-height: 150px;
+    }
+
+    #textarea::placeholder {
+        font-size: 0.9rem;
+    }
+
+    .error {
+        max-height: 70px;
+        padding: 15px 23px;
+        font-size: 14px;
+    }
+
+    .info-container {
+        margin-top: 8px;
+    }
+
+    .result-text {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 400px) {
+
+    #textarea {
+        font-size: 0.9rem;
+    }
+
+    .error {
+        font-size: 0.8rem;
+    }
+}
