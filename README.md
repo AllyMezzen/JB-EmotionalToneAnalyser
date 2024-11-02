@@ -6,7 +6,7 @@
 
 Created application presents a tool that allows users to write down any phrase/text and get information about its emotional tone. That means, the app is made to help distinguish the presence of positive and negative emotions in written text.
 
-The AI 'core' of the current project is ![Cloud Natural Language API](https://cloud.google.com/natural-language/docs/reference/rest) that provides natural language understanding technologies (such as the one used in the project - sentiment analysis). The application supports various languages (e.g. English, German e.t.c).
+The AI 'core' of the current project is [Cloud Natural Language API](https://cloud.google.com/natural-language/docs/reference/rest/v2/Sentiment) that provides natural language understanding technologies (such as the one used in the project - sentiment analysis). The application supports various languages (e.g. English, German e.t.c).
 
 Emotional Tone Analyzer is a browser app which consists of:
 1. Heading and description.
@@ -30,7 +30,7 @@ interface SentimentResponse {
 
 The app itself is adaptive, functional and can be used for its purpose.
 
-**Note that the valid API-key is already integrated into the ![code](/src/api/config.ts)**
+**Note that the valid API-key is already integrated into the [code](/src/api/config.ts)**
 
 
 ## How to get started
