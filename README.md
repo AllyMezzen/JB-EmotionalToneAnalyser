@@ -35,7 +35,13 @@ The app itself is adaptive, functional and can be used for its purpose.
 
 ## How to get started
 
-Step 1: Download (and unzip, if necessary) **JB-EmotionalToneAnalyzer.zip**.
+### Option 1
+
+Built version is deployed [here](https://allymezzen.github.io/JB-EmotionalToneAnalyser/)
+
+### Option 2
+
+Step 1: Download (and unzip, if necessary) **JB-EmotionalToneAnalyser.zip**.
 
 Step 2: Open the project folder.
 
