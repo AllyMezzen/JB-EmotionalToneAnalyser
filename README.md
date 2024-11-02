@@ -30,7 +30,7 @@ interface SentimentResponse {
 
 The app itself is adaptive, functional and can be used for its purpose.
 
-**Note that the valid API-key is already integrated into the [code](/src/api/config.ts)**
+**Note that the valid API-key is already integrated into the [code](/src/api/config.ts) and restricted to usage only for [deployed version](https://allymezzen.github.io/JB-EmotionalToneAnalyser/)**
 
 
 ## How to get started
