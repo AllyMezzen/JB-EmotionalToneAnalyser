@@ -11,6 +11,9 @@ export const requestSentimentScore = async (text: string) => {
         content: text,
       },
       encodingType: 'UTF8',
+    },
+    {
+      timeout: 5000
     }
   )
   return response.data.documentSentiment.score

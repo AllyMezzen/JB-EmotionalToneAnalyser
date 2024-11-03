@@ -45,7 +45,7 @@ export const App = () => {
       setTone(receiveEmotionalInfo(sentimentScore));
       setError(null);
     } catch (err: any) {
-      let error = err.response.data.error.message;
+      let error = err.response?.data?.error?.message;
       setError(error ? error : "Failed to analyze tone");
       setTone(null);
     } finally {
