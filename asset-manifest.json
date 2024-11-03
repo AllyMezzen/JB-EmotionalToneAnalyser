@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JB-EmotionalToneAnalyser/static/css/main.9f5f21ae.css",
-    "main.js": "/JB-EmotionalToneAnalyser/static/js/main.b88c7881.js",
+    "main.js": "/JB-EmotionalToneAnalyser/static/js/main.1b3d8e84.js",
     "static/media/Background.jpg": "/JB-EmotionalToneAnalyser/static/media/Background.e5253f2201c4f76ad3c5.jpg",
     "static/media/MullerRegularItalic.woff": "/JB-EmotionalToneAnalyser/static/media/MullerRegularItalic.a9983a549c4000d07bae.woff",
     "static/media/MullerLight.woff": "/JB-EmotionalToneAnalyser/static/media/MullerLight.d2769648f88e6650a9d9.woff",
@@ -13,10 +13,10 @@
     "static/media/MullerRegular.woff2": "/JB-EmotionalToneAnalyser/static/media/MullerRegular.33ae73af0bab56f7dd13.woff2",
     "index.html": "/JB-EmotionalToneAnalyser/index.html",
     "main.9f5f21ae.css.map": "/JB-EmotionalToneAnalyser/static/css/main.9f5f21ae.css.map",
-    "main.b88c7881.js.map": "/JB-EmotionalToneAnalyser/static/js/main.b88c7881.js.map"
+    "main.1b3d8e84.js.map": "/JB-EmotionalToneAnalyser/static/js/main.1b3d8e84.js.map"
   },
   "entrypoints": [
     "static/css/main.9f5f21ae.css",
-    "static/js/main.b88c7881.js"
+    "static/js/main.1b3d8e84.js"
   ]
 }
